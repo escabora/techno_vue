@@ -2,7 +2,7 @@
 
 Desenvolvimento de página com listagem de produto por API, minicart e tratativas de adição.
 
-Para visualizar o projeto acesso: [demo acesso]()
+Para visualizar o projeto acesso: [demo acesso](https://escabora.github.io/techno_vue/)
 
 Clone ou faça o download e usando um servidor local abra o arquivo `index.html`.<br>
 
