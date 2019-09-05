@@ -17,7 +17,7 @@ Abra [http://localhost/techno_vue](http://localhost/techno_vue) para visualizá-
 - v-bind
 - v-on
 - v-model
-- v-if e v-fro
+- v-if e v-for
 - Eventos Globais
 - Lifecycle Hooks
 - Arguments e Modifiers 
